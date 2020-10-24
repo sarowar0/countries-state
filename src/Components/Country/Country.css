@@ -1,0 +1,19 @@
+.countries{
+    position: relative;
+    width:170px;
+    margin: 25px 10px;
+    box-shadow: -1px 0px 7px 2px grey;
+    float: left;
+    height: 220px;
+}
+.countries img{
+    width:100%;
+    height: 100px;
+    margin-bottom: 10px;
+}
+.countries button{
+    position: absolute;
+    bottom: 10%;
+    left: 50%;
+    transform:translate(-50%,-10%)
+}
